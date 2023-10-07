@@ -53,3 +53,13 @@ align-items: center;
 #remember:hover {
     background-color: #ac9798;
 }
+
+h5 {
+ background-color: #FFF;
+}
+
+.footer {
+ width: 100%;
+ display: flex;   
+ justify-content: right;
+}
